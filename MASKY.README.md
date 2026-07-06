@@ -10,7 +10,7 @@ It demonstrates reading, updating, deleting JSON data, and writing logs to a fil
 - Logs the deletion action in archive.txt
 - Reads and displays the archive log
 
-# How to use
+## How to use
 The system performs the following steps automatically:
 - Create the JSON file with initial account data
 - Load the data from the file
