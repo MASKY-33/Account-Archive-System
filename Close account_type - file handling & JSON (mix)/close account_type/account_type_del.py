@@ -10,7 +10,6 @@ with open("account.json", "w") as file:
     json.dump(loaded_data, file)
 
 
-
 with open("archive.txt", "a") as file:
     file.write("Account-item successfully deleted. \n")
 
